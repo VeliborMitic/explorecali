@@ -1,0 +1,26 @@
+[
+  {
+    "packageType": "Backpack cal",
+    "title": "regw  earg",
+    "blurb": "arg raga",
+    "description": "sdhtrht sdv",
+    "bullets": "srgwa w",
+    "difficulty": "Medium",
+    "length": "3 days",
+    "price": 750,
+    "region": "Central Coast",
+    "keywords": "Hiking"
+  },
+  {
+    "packageType": "Nature Watch",
+    "title": "regw  earg",
+    "blurb": "arg raga",
+    "description": "sdhtrht sdv",
+    "bullets": "srgwa w",
+    "difficulty": "Difficult",
+    "length": "3 days",
+    "price": 950,
+    "region": "Northern California",
+    "keywords": "Hiking"
+  }
+]
